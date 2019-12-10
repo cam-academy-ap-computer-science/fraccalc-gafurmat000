@@ -1,12 +1,26 @@
 package fracCalc;
 
+import java.util.Scanner;
+
 public class FracCalc {
 
-    public static void main(String[] args) 
+   /* public static void main(String[] args) 
     {
-        // TODO: Read the input from the user and call produceAnswer with an equation
+    	Scanner console = new Scanner(System.in);
+    	System.out.print("What would you like to calculate? (type \"quit\" to stop)");
+    	String input; 
+    	produceAnswer(console);
+    
+		while (input != "quit") {
+    		input.contentEquals("quit");
+    	} 
+	*/
+    	
+    		
+    			
+    	// TODO: Read the input from the user and call produceAnswer with an equation
 
-    }
+    
     
     // ** IMPORTANT ** DO NOT DELETE THIS FUNCTION.  This function will be used to test your code
     // This function takes a String 'input' and produces the result
