@@ -1,0 +1,14 @@
+REQUIREMENT	POINTS
+Input Parsing	15
+Addition & Subtraction	20
+Multiplication & Division	20
+Fraction Reduction	15
+Output is a Mixed Fraction	15
+Handles Mixed Fractions	10
+Handles Negatives	15
+Checkpoints	35
+Code Comments	5
+Extra: Multiple Operations 4
+Extra: Error Handling	4
+
+TOTAL	158/150 points
